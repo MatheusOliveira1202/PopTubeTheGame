@@ -7,7 +7,7 @@ public class Floor : MonoBehaviour {
 
 	void Start () 
     {
-        floorSpeed = 0.1f;
+        floorSpeed = 2 * Time.deltaTime;
 	}
 
     void Movement()
