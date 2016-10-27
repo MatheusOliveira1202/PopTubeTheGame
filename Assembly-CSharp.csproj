@@ -49,6 +49,8 @@
      <Compile Include="Assets\Scripts\ButtomClicked.cs" />
      <Compile Include="Assets\Scripts\Floor.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Platform.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
